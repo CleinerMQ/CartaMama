@@ -10,8 +10,8 @@ body {
 }
 
 .book {
-    width: 350px;
-    height: 450px;
+    width: 750px;
+    height: 850px;
     position: relative;
     perspective: 1500;
 }
@@ -56,8 +56,8 @@ input {
 .page {
     position: absolute;
     background-color: white;
-    width: 330px;
-    height: 430px;
+    width: 730px;
+    height: 830px;
     border-radius: 0 15px 15px 0;
     margin-top: 10px;
     transform-origin: left;
@@ -72,8 +72,9 @@ input {
     width: 100%;
     height: 100%;
     backface-visibility: hidden;
-    box-sizing: border-box;
-    padding: 1rem;
+    padding: 5rem;
+    font-size: 32px; /* Aumenta el tamaño de la fuente */
+
 }
 
 .back-page {
@@ -83,12 +84,15 @@ input {
     height: 100%;
     backface-visibility: hidden;
     z-index: 99;
+    
 }
 
 .next, .prev {
     position: absolute;
     bottom: 1em;
     cursor: pointer;
+    font-size: 50px; /* Aumenta el tamaño de la fuente */
+
 }
 
 .next {
@@ -152,3 +156,9 @@ input {
     width: 1;
     height: 10;
 }
+.poetsen-one-regular {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
