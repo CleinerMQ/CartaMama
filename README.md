@@ -1,19 +1,19 @@
-# Feliz Día Mamá - Libro Interactivo
+# 🌸 Feliz Día Mamá - Libro Interactivo 📖❤️
 
-## Descripción
+## ✨ Descripción
 
-Este proyecto es un libro interactivo digital dedicado a las madres, ideal para celebrar el Día de la Madre. Contiene tres páginas con mensajes emotivos, imágenes y un audio especial que se reproduce al abrir el libro. 
+Este proyecto es un **libro interactivo digital** dedicado a las madres, perfecto para celebrar el **Día de la Madre**. Contiene tres páginas con mensajes emotivos, imágenes encantadoras y una canción especial que se reproduce al abrir el libro. 🎶💐
 
-El diseño utiliza HTML, CSS y JavaScript para crear una experiencia visual y sonora única, con una interfaz tipo "libro" que se abre y se navega con animaciones suaves y controles simples.
+Con un diseño elegante en HTML, CSS y JavaScript, ofrece una experiencia visual y sonora única, simulando un libro real que puedes abrir y hojear fácilmente. 📚✨
 
-## Cómo usar
+## 🚀 Cómo usar
 
-- **Haz clic en el libro** para abrirlo y empezar a disfrutar del contenido.
-- Navega entre las páginas usando las flechas derecha e izquierda.
-- Al abrir el libro, se reproducirá automáticamente la canción de fondo.
-- Al cerrarlo, la música se pausará y volverá al inicio.
+- **Haz clic en el libro 📖** para abrirlo y descubrir los mensajes y sorpresas que contiene.
+- Usa las flechas ◀️▶️ para navegar entre las páginas.
+- Al abrir el libro, la música 🎵 comenzará a sonar automáticamente.
+- Al cerrar el libro, la música se pausará y volverá al inicio.
 
-## Tecnologías usadas
+## 🛠️ Tecnologías usadas
 
 - HTML5
 - CSS3
@@ -24,5 +24,4 @@ El diseño utiliza HTML, CSS y JavaScript para crear una experiencia visual y so
 
 ---
 
-¡Un detalle especial para mamá con cariño y tecnología!
-
+🌷 ¡Un detalle especial para mamá, lleno de amor y tecnología! 💖🐝
